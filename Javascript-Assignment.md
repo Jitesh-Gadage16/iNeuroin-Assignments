@@ -7,7 +7,7 @@
 
 ## (2). 25 Questions based on the Arrays are given in the 27th August live class recording resource section.
 
-<!-- [Repository Link to the solutions](https://github.com/alokVerma749/iNeuron-array-questions/tree/master) -->
+[Repository Link to the solutions](https://github.com/Jitesh-Gadage16/Basics-Of-Javascript)
 
 
 
